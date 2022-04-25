@@ -9,3 +9,11 @@ html { box-sizing: border-box;}
 body {
     background-color: palegoldenrod;
 }
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    color:aqua
+}
